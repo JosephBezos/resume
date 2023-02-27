@@ -1,0 +1,98 @@
+body{
+    font-family: 'Montserrat', sans-serif;
+    background-color: #E5E5E5;
+    padding: 40px;
+    height: auto;
+}
+
+/* Wrapper */
+.wrapper{
+    display: flex;
+    flex-direction: row-reverse;
+    background: #FFFF;
+    width: 1200px;
+    height: 1396px;
+    margin: 0 auto;
+}
+
+/* Main content */
+.main-content{
+    padding: 88px, 88px, 88px, 88px;
+}
+
+/* About me */
+.my-profession{
+    margin-bottom: 20px;
+    font-size: 14px;
+    padding-top: 140px;
+}
+
+.my-name{
+    font-size: 45px;
+    margin-top: 18px;
+}
+
+.my-description{
+    margin-top: 28px;
+    font-size: 14px;
+}
+
+h2{
+    font-size: 35px;
+}
+
+h3{
+    font-size: 22px;
+}
+
+h4{
+    font-size: 16px;
+}
+
+p{
+    font-size: 12px;
+}
+
+.project-item{
+    background-color: yellow;
+}
+
+/* Sidebar */
+aside{
+    background-color: #E0EBFE;
+    width: 370px;
+    height: 1316px;
+    margin-top: 40px;
+    margin-left: 40px;
+    margin-bottom: 868px;
+    margin-right: 40px;
+}
+
+img{
+    margin-top: 40px;
+    margin-bottom: 924px;
+}
+/* 
+.contacts{
+    position: absolute;
+    top: 500px;
+    left: 435px;
+}
+
+.tech-skills{
+    position: absolute;
+    top:650px;
+    left: 435px;
+}
+
+.soft-skills{
+    position: absolute;
+    top:900px;
+    left: 435px;
+} */
+
+.contacts{
+    margin-top: 500px;
+    margin-left: 435px;
+}
+
